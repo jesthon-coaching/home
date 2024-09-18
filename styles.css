@@ -277,7 +277,7 @@
         /* Booking Section */
         .booking {
             padding: 60px 20px;
-            background-color: white;
+            background-color: #fbfcfd;
         }
         .booking h2 {
             color: #28a745;
@@ -292,7 +292,7 @@
         }
         .booking iframe {
             width: 100%;
-            height: 600px; /* Az iframe magassága az igények szerint módosítható */
+            height: 700px; /* Az iframe magassága az igények szerint módosítható */
             border: none;
         }
 
